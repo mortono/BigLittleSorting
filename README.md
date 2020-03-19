@@ -1,4 +1,4 @@
-# BigLittleSorting
+# FamSorting
 
 the csv and the python script have to be in the same directory, i think. 
 
